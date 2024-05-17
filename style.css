@@ -43,3 +43,9 @@
 .escola-titulo{
     padding: 24px 0;
 }
+
+.pass{
+    width: 48%;
+    justify-content: right;
+    padding: 70px 180;
+}
